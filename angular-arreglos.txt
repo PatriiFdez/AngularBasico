@@ -1,0 +1,7 @@
+* Filtrar por todos los campos
+* Editar y eliminar el proveedores
+* Filtrar por minusculas tb
+* Arreglar validaciones
+* Regresar al insertar un registro y boton regreso
+* Confirmacion de eliminacion
+* Subida archivos
